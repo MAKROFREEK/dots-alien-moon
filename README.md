@@ -5,7 +5,9 @@ I was browsing r/unixporn and saw a rice/background that really caught my eye. T
 
 I thought this was really really cool.  https://www.reddit.com/r/unixporn/comments/p0b4oh/qtile_light_purple_my_first_time/
 
+## Honorable mentions
 
+The dunst notif' being super... outrageously.. laughably large was initially a mistake, but it's grown on me. So now I keep it, it's absolutely absurd but I love it.
 
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
