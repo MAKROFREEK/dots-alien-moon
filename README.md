@@ -2,7 +2,10 @@
 LetsHaveKiddos | Alien Moon
 ===========================
 I was browsing r/unixporn and saw a rice/background that really caught my eye. This is the result of that.
-(I'm gonna link the reddit post as soon as I find it again.) 
+
+I thought this was really really cool.  https://www.reddit.com/r/unixporn/comments/p0b4oh/qtile_light_purple_my_first_time/
+
+
 
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
