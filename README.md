@@ -27,4 +27,4 @@ I didn't bother saving any screenshots of the previous editon because it wasn't 
 
 ## Screens:
 
-![image](screenshots/reddit-screen.png)
+![image](screenshots/reddit-screens.png)
