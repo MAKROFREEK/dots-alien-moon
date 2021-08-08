@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/christian/.config/polybar'
+let g:netrw_dirhist_5='/home/christian/.config/polybar/scripts'
+let g:netrw_dirhist_4='/home/christian/.config/polybar'
+let g:netrw_dirhist_3='/home/christian/.config'
+let g:netrw_dirhist_2='/home/christian/.config/rofi'
+let g:netrw_dirhist_1='/home/christian/.config'
+let g:netrw_dirhist_0='/home/christian/.config/rofi'
+let g:netrw_dirhist_9='/home/christian/.config/polybar/rofi'
+let g:netrw_dirhist_8='/home/christian/.config/polybar/scripts'
+let g:netrw_dirhist_7='/home/christian/.config/i3/plugins'

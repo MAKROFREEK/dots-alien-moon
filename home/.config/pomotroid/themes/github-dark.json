@@ -1,0 +1,17 @@
+
+{
+  "name": "github-dark",
+  "colors": {
+    "--color-long-round": "#3b8eea",
+    "--color-short-round": "#f14c4c",
+    "--color-focus-round": "#23d18b",
+    "--color-foreground-darker": "#e2e210",
+    "--color-background": "#15181a",
+    "--color-background-light": "#24292e",
+    "--color-background-lightest": "#757a84",
+    "--color-foreground": "#d1d5da",
+    "--color-foreground-darker": "#666666",
+    "--color-foreground-darkest": "#757a84",
+    "--color-accent": "#23d18b"
+  }
+}
