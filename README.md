@@ -2,6 +2,7 @@
 LetsHaveKiddos | Alien Moon
 ===========================
 I was browsing r/unixporn and saw a rice/background that really caught my eye. This is the result of that.
+(I'm gonna link the reddit post as soon as I find it again.) 
 
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
@@ -28,3 +29,5 @@ I didn't bother saving any screenshots of the previous editon because it wasn't 
 ## Screens:
 
 ![image](screenshots/reddit-screens.png)
+
+![image](screenshots/thunar-pomotroid.png)
