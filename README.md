@@ -1,22 +1,45 @@
 
-LetsHaveKiddos | Alien Moon
+**LetsHaveKiddos** | **Alien Moon**
 ===========================
 I was browsing r/unixporn and saw a rice/background that really caught my eye. This is the result of that.
 
 I thought this was really really cool.  https://www.reddit.com/r/unixporn/comments/p0b4oh/qtile_light_purple_my_first_time/
 
-## Honorable mentions
-
-The dunst notif' being super... outrageously.. laughably large was initially a mistake, but it's grown on me. So now I keep it, it's absolutely absurd but I love it.
-
 I AM MAKING AN INSTALL GUIDE TO MAKE IT EASIER FOR FOLKS BECAUSE OF MY REALLY WEIRD AND WONKY SETTINGS.
 
-## Tools used
-i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
+**Dependencies**:
 
-I provide GTK and QT options.
+* Kitty *(alternatively I can provide color confs for any terminal if requested)
 
-No extra changes for GTK needed, for QT I recommend plastique. If youre on arch [aur/qt5-styleplugins-git]
+* Dunst
+
+* Polybar
+
+* Discord
+
+* BetterDiscord
+
+* betterlockscreen
+
+* i3lock-fancy
+
+* i3-gaps
+
+* rofi
+
+* picom-ibhagwan-git
+
+**Other tools I use**:
+
+* Sublime
+
+* Spotify
+
+* Thunar
+
+* Zathura
+
+* Neovim
 
 ## Boot 
 
@@ -31,7 +54,7 @@ I'm super OCD and like my rofi/dunst/polybar to spawn only on one of my monitors
 
 I didn't bother saving any screenshots of the previous editon because it wasn't recieved very well.
 
-## Enjoy
+**Enjoy**
 
 ## Screens:
 
