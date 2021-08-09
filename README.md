@@ -9,6 +9,8 @@ I thought this was really really cool.  https://www.reddit.com/r/unixporn/commen
 
 The dunst notif' being super... outrageously.. laughably large was initially a mistake, but it's grown on me. So now I keep it, it's absolutely absurd but I love it.
 
+I AM MAKING AN INSTALL GUIDE TO MAKE IT EASIER FOR FOLKS BECAUSE OF MY REALLY WEIRD AND WONKY SETTINGS.
+
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
 
