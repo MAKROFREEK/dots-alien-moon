@@ -9,7 +9,7 @@ I AM MAKING AN INSTALL GUIDE TO MAKE IT EASIER FOR FOLKS BECAUSE OF MY REALLY WE
 
 **Dependencies**:
 
-* Kitty *(alternatively I can provide color confs for any terminal if requested)
+* Kitty *(alternatively I can provide color confs for any terminal if requested)*
 
 * Dunst
 
