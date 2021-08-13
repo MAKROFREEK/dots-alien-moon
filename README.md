@@ -41,12 +41,6 @@ I AM MAKING AN INSTALL GUIDE TO MAKE IT EASIER FOR FOLKS BECAUSE OF MY REALLY WE
 
 * Neovim
 
-## Boot 
-
-I provided a grub theme (mostly just colors but hey its consistent with the theme)
-
-If you're not comfortable changing this I wouldn't even bother. It's a bit of a hassle.
-
 ## INSTALLATION GUIDE
 https://github.com/LetsHaveKiddos/installation-guide
 
